@@ -1,0 +1,37 @@
+name,id,parent_id
+accessories,1
+women's accessories,2,1
+women's hats,3,2
+women's belts,4,2
+women's scarves and scarves,5,2
+accessories for men,6,1
+ties,7,6
+men's belts,8,6
+shoes,9
+shoes for women,10,9
+ballerinas,11,10
+boots,12,10
+women's sports shoes,13,10
+pumps,14,10
+women's slippers,15,10
+boots for women,16,10
+men's shoes',17,9
+men's sports shoes,18,17
+men's slippers,19,17
+men's shoes,20,17
+clothing,21
+women's clothing,22,21
+women's sweatshirts,23,22
+boleros and overcoats,24,22
+ladies jeans,25,22
+ladies' vests,26,22
+women's suits,27,22
+women's shirts,28,22
+jackets and coats,29,22
+skirts,30,22
+women's pants,31,22
+dresses,32,22
+women's sweaters,33,22
+tops,34,22
+tunics,35,22
+other,36
